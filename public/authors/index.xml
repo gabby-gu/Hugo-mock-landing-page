@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on CineScore</title>
-    <link>http://localhost:61375/hugo-mock-landing-page/authors/</link>
+    <link>https://gabby-gu.github.io/hugo-mock-landing-page/authors/</link>
     <description>Recent content in Authors on CineScore</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Gabrielle Gu</copyright>
     <lastBuildDate>Wed, 15 May 2024 05:35:23 -0400</lastBuildDate>
-    <atom:link href="http://localhost:61375/hugo-mock-landing-page/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gabby-gu.github.io/hugo-mock-landing-page/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bjørn Erik Pedersen</title>
-      <link>http://localhost:61375/hugo-mock-landing-page/authors/bj%C3%B8rn-erik-pedersen/</link>
+      <link>https://gabby-gu.github.io/hugo-mock-landing-page/authors/bj%C3%B8rn-erik-pedersen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:61375/hugo-mock-landing-page/authors/bj%C3%B8rn-erik-pedersen/</guid>
+      <guid>https://gabby-gu.github.io/hugo-mock-landing-page/authors/bj%C3%B8rn-erik-pedersen/</guid>
       <description></description>
     </item>
     <item>
       <title>Mark Otto</title>
-      <link>http://localhost:61375/hugo-mock-landing-page/authors/mark-otto/</link>
+      <link>https://gabby-gu.github.io/hugo-mock-landing-page/authors/mark-otto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:61375/hugo-mock-landing-page/authors/mark-otto/</guid>
+      <guid>https://gabby-gu.github.io/hugo-mock-landing-page/authors/mark-otto/</guid>
       <description></description>
     </item>
     <item>
       <title>Filipe Carneiro</title>
-      <link>http://localhost:61375/hugo-mock-landing-page/authors/filipe-carneiro/</link>
+      <link>https://gabby-gu.github.io/hugo-mock-landing-page/authors/filipe-carneiro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:61375/hugo-mock-landing-page/authors/filipe-carneiro/</guid>
+      <guid>https://gabby-gu.github.io/hugo-mock-landing-page/authors/filipe-carneiro/</guid>
       <description>Filipe Carneiro.</description>
     </item>
   </channel>
